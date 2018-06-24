@@ -1,0 +1,17 @@
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.csprojAssemblyReference.cache
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\MainWindow.g.cs
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\App.g.cs
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer_MarkupCompile.cache
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer_MarkupCompile.lref
+C:\workspace\win_app\line_trace_timer\line_trace_timer\bin\Debug\line_trace_timer.exe.config
+C:\workspace\win_app\line_trace_timer\line_trace_timer\bin\Debug\line_trace_timer.exe
+C:\workspace\win_app\line_trace_timer\line_trace_timer\bin\Debug\line_trace_timer.pdb
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\MainWindow.baml
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.g.resources
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.Properties.Resources.resources
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.csproj.GenerateResource.cache
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.csproj.CoreCompileInputs.cache
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.exe
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\line_trace_timer.pdb
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\selectSerialPort.g.cs
+C:\workspace\win_app\line_trace_timer\line_trace_timer\obj\Debug\selectSerialPort.baml
